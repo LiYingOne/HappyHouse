@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ran Zhu
+title: Ran Zhu (朱然)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mobile robotics, SLAM and pedestrian indoor positioning.
 
 interests:
 - Self-driving related research topics
