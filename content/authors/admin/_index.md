@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ranzhu@std.uestc.edu.cn
+  link: mailto:your-email@example.com
 /*
 - icon: twitter
   icon_pack: fab
