@@ -6,32 +6,30 @@ title: Ying Li
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master degree candidate majoring in Internet of Things Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Electronic Science and Technology of China (UESTC)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self-driving related research topics
+- Visual Simultaneous Localization and Mapping (V-SLAM)
+- Pedestrian indoor positioning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Master degree in Internet of Things Engineering, Expected in 2021, fall
+    institution: University of Electronic and Scientific Technology of China (UESTC)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Bachelor degree in Communication Engineering, 2018
+    institution: Jilin University (JLU)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +67,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Ran Zhu, a graduate candidate studying in Communication and information system in the Department of Internet of Things Engineering, UESTC (Chengdu).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ 
+
+My research interests lie in pedestrian indoor positioning and intelligent navigation for autonomous robots, especially about PDR, visual odometry, and visual SLAM. Previously I had been working on human activity recognition using smartphones and Zero velocity detection in ZUPT based on inertial for pedestrian navigation. I design new algorithms (increasing machine and deep learning based) and apply these innovation to solving these issues. 
+
+ 
+
+Currently, I am investigating how to localize people and objects in environments where technologies like GPS fail, such as underground or indoors. For people positioning, my work is to address the map matching problem of inertial navigation by leveraging architectural constraints and visual information when there is no starting point. For robot navigation, my research aims to build an intelligent robotic system that can more efficiently deal with the traditional SLAM problems by combining traditional methods and deep learning.
