@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: Master degree in Internet of Things Engineering, Expected in 2021, fall
+  - course: Master degree in Internet of Things Engineering, Expected
     institution: University of Electronic and Scientific Technology of China (UESTC)
-    year: 2012
-  - course: Bachelor degree in Communication Engineering, 2018
+    year: 2021, fall
+  - course: Bachelor degree in Communication Engineering
     institution: Jilin University (JLU)
-    year: 2009
+    year: 2018
   
 
 # Social/Academic Networking
